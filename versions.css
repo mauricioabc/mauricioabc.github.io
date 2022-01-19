@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(192, 191, 189); 
+}
+
+.top {
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    margin-left: 60px;
+    margin-top: 5px;
+}
+
+.txt1 {
+    color: black;   
+    margin: 25px;
+    font-family: cursive;
+}

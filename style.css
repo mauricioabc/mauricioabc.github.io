@@ -163,7 +163,7 @@ footer {
 
 .txt1 {
     color: black;
-    float: left;
+    
     margin: 25px;
     font-family: cursive;
 }
@@ -207,7 +207,7 @@ h2 {
 .top {
     font-size: 14px;
     font-family: Verdana, Geneva, Tahoma, sans-serif; 
-    float: left;
+    
     margin-left: 25px;
     margin-top: 5px;
 }
@@ -241,4 +241,14 @@ h3 {
 .txt3 {
     margin: 25px;
     margin-top: 20px;
+}
+
+.notes {
+    width: 100%;
+    margin-top: 20px;
+    background-color: rgb(192, 191, 189);
+    height: 10px;
+    font-size: 20px;
+    position: relative;
+    left: 1100px;
 }
